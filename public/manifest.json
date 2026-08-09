@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "LinguaBridge",
+  "version": "1.0",
+  "description": "Real-time Text and Voice Translator",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open LinguaBridge"
+  },
+  "icons": {},
+  "permissions": [
+    "activeTab",
+    "storage"
+  ]
+}
